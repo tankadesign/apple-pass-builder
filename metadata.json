@@ -1,0 +1,5 @@
+{
+  "name": "Apple Wallet Pass Creator",
+  "description": "Upload an image containing a barcode to generate a customizable Apple Wallet pass.",
+  "requestFramePermissions": []
+}
